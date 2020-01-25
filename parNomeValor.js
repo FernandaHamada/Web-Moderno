@@ -19,7 +19,7 @@ const cliente = {
 
 console.log(saudacao) // 'Opa'
 console.log(exec()) // 'Falaaa'
-console.log(cliente) /* retorna {
+console.log(cliente) /* retorna{
     nome: 'Pedro',
     idade: 32,
     peso: 90,
